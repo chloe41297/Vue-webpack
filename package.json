@@ -24,6 +24,8 @@
     "babel-loader": "^8.2.2",
     "copy-webpack-plugin": "^9.0.1",
     "css-loader": "^6.3.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.19.0",
     "html-webpack-plugin": "^5.3.2",
     "postcss": "^8.3.9",
     "postcss-loader": "^6.1.1",
@@ -36,6 +38,7 @@
     "webpack-dev-server": "^4.3.0"
   },
   "dependencies": {
+    "-": "0.0.1",
     "vue": "^3.2.19",
     "vue-router": "^4.0.11",
     "vuex": "^4.0.2"
